@@ -1,4 +1,4 @@
-# Modiied from
+# Modified from
 ```
 https://github.com/dillionverma/portfolio
 ```
